@@ -1,6 +1,6 @@
 # CMake cURLpp find_package script 
 
-**A CMake script using LibFindMacros.cmake to look for the cURLpp library on an environment**
+**A CMake script using LibFindMacros.cmake to look for the cURLpp library in an environment**
 
 ### Usage
 
