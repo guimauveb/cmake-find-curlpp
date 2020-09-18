@@ -1,5 +1,7 @@
 # CMake cURLpp find_package script 
 
+**A CMake script using LibFindMacros.cmake to look for the cURLpp library on an environment**
+
 ### Usage
 
 1. In your project folder add the **cmake** directory cloned from this repo
