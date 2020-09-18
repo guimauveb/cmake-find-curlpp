@@ -1,4 +1,4 @@
-# CMake find_package script 
+# CMake cURLpp find_package script 
 
 ### Usage
 
